@@ -1,0 +1,53 @@
+
+
+.navbar-custom{
+	background-color: #262626;
+}
+
+.navbar-custom a {
+	color: #f2f2f2;
+}
+
+.navbar-custom i {
+	color: #f2f2f2;
+}
+
+.navbar-custom ul a:hover{
+	color: #262626;
+}
+
+body{
+	font-family: Lato;
+}
+
+
+h3 {
+	margin-left:15%;
+	color: #552000;
+}
+
+
+#center {
+	margin-left: 25%;
+    width: 55%;
+    border-left: 1px solid #80CFFF;
+    padding: 10px;
+}
+
+h4 {
+	color: #A24208;
+}
+
+#text {
+	color: #C86428;
+}
+
+#part {
+	padding-bottom: 10px;
+	border-bottom: 2px solid #bdc3c7;
+}
+
+#test img {
+	margin-left: 15%;
+	width: 70%;
+}
